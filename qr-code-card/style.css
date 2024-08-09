@@ -39,3 +39,11 @@ body {
     border-radius: 10px;
     margin-bottom: 13px;
 }
+@media (max-width: 340px){
+    .img img{
+        height: 250px;
+        max-width: 500px;
+        width: 200px;
+       
+    }
+}
